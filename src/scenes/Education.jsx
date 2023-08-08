@@ -40,7 +40,7 @@ const Testimonials = () => {
                     }
                     
                 >
-                    <img  className="mb-10" src="../assets/graduation-clipart.png" alt={""}/>
+                    <img  className="mb-10" src="assets/graduation-clipart.png" alt={""}/>
                     <p className="text-center mt-10  font-serif text-xl">
                         Currently doing B.tech in Electronics and Communication Engineering from MNNIT Allahabad.
                     </p>
@@ -61,7 +61,7 @@ const Testimonials = () => {
                         }
                     }
                 >
-                    <img src="../assets/highschool.png" alt={""}/>
+                    <img src="assets/highschool.png" alt={""}/>
                     < p  className="text-center   mt-10 font-serif text-xl pb-6">
                         CBSE Board With 94.2%
                        Satyam Intl School
@@ -82,7 +82,7 @@ const Testimonials = () => {
                         }
                     }
                 >
-                    <img classNme="mb-40" src="../assets/grade_10.jpg" alt={""}/>
+                    <img classNme="mb-40" src="assets/grade_10.jpg" alt={""}/>
                     <p className="text-center   mt-10 font-serif text-xl pb-6">
                         CBSE Board With 10 CGPA. 
                         Satyam Intl  School
