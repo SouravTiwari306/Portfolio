@@ -88,7 +88,7 @@ visible:{opacity:1, scale:1}
               </p>
               </a>
             </div>
-    <img src="../portfolio/assets/hqdefault.jpg" alt="" />
+    <img src={`../portfolio/assets/hqdefault.jpg`}  alt="" />
 
 
         </motion.div>
