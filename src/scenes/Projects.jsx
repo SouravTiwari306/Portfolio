@@ -28,7 +28,7 @@ visible:{opacity:1, scale:1}
               </p>
               </a>
             </div>
-            <img src="assets/Movie-Ticket-Booking-1024x768.png" alt={""} />
+            <img src="../assets/Movie-Ticket-Booking-1024x768.png" alt={""} />
 
         </motion.div>
     );
@@ -48,7 +48,7 @@ visible:{opacity:1, scale:1}
               </p>
               </a>
             </div>
-            <img src="assets/Bitcoin.jpg" alt={""}/>
+            <img src="../assets/Bitcoin.jpg" alt={""}/>
 
         </motion.div>
     );
@@ -68,7 +68,7 @@ visible:{opacity:1, scale:1}
               </p>
               </a>
             </div>
-            <img src="assets/portfolio1.png" alt={""}/>
+            <img src="../assets/portfolio1.png" alt={""}/>
 
         </motion.div>
     );
@@ -88,7 +88,7 @@ visible:{opacity:1, scale:1}
               </p>
               </a>
             </div>
-    <img src="assets/hqdefault.jpg"  alt="" />
+    <img src="../assets/hqdefault.jpg"  alt="" />
 
 
         </motion.div>
