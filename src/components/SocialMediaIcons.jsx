@@ -6,7 +6,7 @@ const SocialMediaIcons =()=>{
    href="https://www.linkedin.com/in/sourav-kumar-2a66611b8"
    target="_blank"
    rel="moreferrer">
-    <img alt="linkedin-link" src="../assets/linkedin.png"/>
+    <img alt="linkedin-link" src="./portfolio/assets/linkedin.png"/>
             </a>
 
 
