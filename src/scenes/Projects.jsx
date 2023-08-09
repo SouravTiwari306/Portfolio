@@ -61,7 +61,7 @@ visible:{opacity:1, scale:1}
         variants={projectVariant} className="relative"
         >
             <div className={overlayStyles}>
-            <a href="https://github.com/SouravTiwari306/My-PortFolio" target="blank">
+            <a href="https://github.com/SouravTiwari306/portfolio" target="blank">
               <p className="text-2xl font-playfair">My Portfolio</p>
               <p className="mt-7">
               Built with React.js, my portfolio showcases my skills, projects, and achievements in an interactive and visually appealing manner, providing a comprehensive overview of my journey and expertise.

@@ -36,10 +36,10 @@ return (
             }
             >
                 <p className="font-playfair font-semibold text-4xl mb-5">
-                    MY <span className="text-red">SKILLS</span>
+                    MY <p className="text-red text-4xl">SKILLS</p>
                 </p>
                 <LineGradient width="w-2/3"/>
-                <p className="mt-5 mb-5 font-serif  text-xl" >
+                <p className="mt-5  font-serif  text-2xl" >
                 Committed to continuous growth, I consistently enhance my technical skills through hands-on projects, dedicated learning, and staying abreast of industry trends.
                 </p>
             </motion.div>
