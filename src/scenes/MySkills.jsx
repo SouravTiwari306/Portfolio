@@ -39,7 +39,7 @@ return (
                     MY <p className="text-red text-4xl">SKILLS</p>
                 </p>
                 <LineGradient width="w-2/3"/>
-                <p className="mt-5  font-serif  text-2xl" >
+                <p className="mt-5  font-serif text-xl" >
                 Committed to continuous growth, I consistently enhance my technical skills through hands-on projects, dedicated learning, and staying abreast of industry trends.
                 </p>
             </motion.div>
